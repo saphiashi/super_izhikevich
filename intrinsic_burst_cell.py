@@ -49,3 +49,5 @@ myCell = ibCell(4000)
 myCell.simulate()
 izh.plotMyData(myCell)
         
+if __name__=='__main__':
+    izh.plotMyData(myCell)
